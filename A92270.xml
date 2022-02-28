@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd to the honourable the Commons of England assembled in Parliament, shewing the great loss that accrues to their Majesties in their revenue, and their subjects both at home and in their plantations abroad, by the African Company's ingrossing the sole trade of Africa ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690-1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92270</idno>
+            <idno type="STC">Wing R558ZC</idno>
+            <idno type="STC">ESTC R200400</idno>
+            <idno type="EEBO-CITATION">45504514</idno>
+            <idno type="OCLC">ocm 45504514</idno>
+            <idno type="VID">171829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd to the honourable the Commons of England assembled in Parliament, shewing the great loss that accrues to their Majesties in their revenue, and their subjects both at home and in their plantations abroad, by the African Company's ingrossing the sole trade of Africa ...</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal African Company.</term>
+               <term>Slave trade --  Africa --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171829:1" rendition="simple:additions"/>
+            <head>REASONS Humbly Offer'd To the Honourable the Commons of <hi>England</hi> Aſſem<g ref="char:EOLhyphen"/>bled in <hi>Parliament,</hi> ſhewing the great Loſs that Accrues to their Majeſties in their Revenue, and their Subjects both at Home and in their Planta<g ref="char:EOLhyphen"/>tions Abroad, by the <hi>African</hi> Company's Ingroſſing the Sole Trade of <hi>Africa,</hi> confining it to the Narrow Joynt Stock of little more than One Hundred Thouſand Pounds, excluding all other their Majeſty's Subjects both at Home and Abroad, to their Great Detriment and Threatned Ruine.</head>
+            <p n="1">I. FIrſt, their Majeſty's Iſland of <hi>Jamaica</hi> being very large, and not a Twentieth Part Planted, requires a greater Supply of Negroes, than the <hi>African</hi> Com<g ref="char:EOLhyphen"/>pany have furniſhed them with, and for thoſe they bring they exact exor<g ref="char:EOLhyphen"/>bitant and intollerable Rates, which tends to the Ruine of the Inhabitants and Planters of the ſaid Iſland.</p>
+            <p n="2">II. It was once agreed before the King and Council, towards the latter end of King <hi>Charles</hi> the Second, That the Company ſhould furniſh the Iſland of <hi>Jamaica</hi> with Three Thouſand Negroes <hi>per Annum</hi> at 17 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d. per</hi> Head; which, as we are informed, was in purſuance to what they were oblig'd upon obtaining their Char<g ref="char:EOLhyphen"/>ter, though particular Merchants offer'd at the ſame time to do it for 14 <hi>l.</hi>; but the King being deſirous to pleaſe the Company, obliged the People to agree with the ſaid Company at 17 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d;</hi> though preſently after, and ever ſince they were abuſed in Both; for they had not from the Company the Quantities promi<g ref="char:EOLhyphen"/>ſed, and the Company exacted what Rates they pleaſed, even to 22 <hi>l;</hi> and ſince to greater Prices; and they have 10 <hi>per Cent per Annum</hi> Intereſt after ſix Months, for all that do not pay in their time.</p>
+            <p n="3">III. Hereby the Increaſe of Their Majeſties Revenue is extraordinarily obſtructed, ſince if the Planters were ſupply'd with Negroes ſuitable to their occaſions, whereas they now produce one Tun of <hi>Sugar,</hi> they would make four Tuns; and <hi>Indigo, Cotton Wool, Ginger,</hi> &amp;c. in proportion, and each Tunn or four Hogſheads of <hi>Sugar,</hi> pays Their Majeſties for Duty 6 <hi>l.</hi>
+            </p>
+            <p n="4">IV. Sugar, Indigo, Cotton-Wool, <hi>&amp;c.</hi> being produced by the ſtrength of Negroes, if the Iſland be ſlenderly ſupplied, or at dear Rates (which muſt be expected when none ſells but the Company) then will the ſaid Comodities coſt ſo dear that <hi>England</hi> cannot hold the Market with the <hi>French, Dutch,</hi> and <hi>Portugueſe.</hi>
+            </p>
+            <p n="5">V. Other Foreign Nations may Trade freely on the Coaſt of <hi>Africa,</hi>
+               <note place="margin">
+                  <hi>At times the Company have had fourteen of the King's Men of War cruiſing on the Coast of</hi> Africa, <hi>and off the Iſlands, to take all</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>Merchant-Men who had not their Per<g ref="char:EOLhyphen"/>miſſion.</hi>
+               </note> as <hi>Brandenburg<g ref="char:EOLhyphen"/>hers, Danes, French, Portugueſe,</hi> &amp;c. but if <hi>Engliſh</hi>-Men (not of the Company) be there getting Negroes or Gold in Exchange for our Woollen Manufactures, the Com<g ref="char:EOLhyphen"/>pany have heretofore procured Men of War, and have given Commiſſions to their own Ships to Seize upon, bring into Port, Condemn and Sell their Ships and Goods to the Company's Uſe.</p>
+            <p n="6">VI. Since the Trade of <hi>Africa</hi> hath been manag'd by this Company, <note place="margin">NB. <hi>Eeach</hi> 4th <hi>Rate coſts lit<g ref="char:EOLhyphen"/>tle leſs than a</hi> 1000 l. <hi>a Month.</hi>
+               </note> and confin'd to the narrow Joint-Stock of 100000 <hi>l.</hi> there is but one Buyer of ſuch of our Woollen Manu<g ref="char:EOLhyphen"/>factures of Says, Perpetuanoes, Cloth, <hi>&amp;c.</hi> as are exported to thoſe vaſt Countries, to the great damage of the Makers thereof in particular, and of the Nation in general.
+<pb n="2" facs="tcp:171829:2" rendition="simple:additions"/>They buying ſuch Goods as are proper for that part of the World, almoſt at their own Prices, and no greater Quantities than they can vend at exceſſive Rates; whereas, were the Trade Free, their would be a great number of Buyers, the Goods would ſell dearer at home, and greater Quantities exported and vended abroad: So that by the limiting that Trade Their Majeſties Cuſtoms are diminiſh'd, our Woollen Manufactures diſcou<g ref="char:EOLhyphen"/>rag'd, the Exportation thereof much leſſened, and many Families who ſubſiſt thereby, reduced to Extremity and Want.</p>
+            <p n="7">VII. It may be conſidered, whereas the Planters of <hi>Jamaica</hi> have laid out Twenty times more than the ſaid Company's Stock in Setling the ſaid Iſland, and that it is by their Induſtry, Labour, and Pains brought to what it now is, and that it hath been and will be Kept, Maintained, and Defended againſt all their Majeſty's Ene<g ref="char:EOLhyphen"/>mies by their Majeſty's Subjects there, and not by the Aſſiſtance of the <hi>African</hi> Com<g ref="char:EOLhyphen"/>pany. It may be alſo conſidered, That the ſaid Company neither by their Va<g ref="char:EOLhyphen"/>lour, Council, nor Eſtates, have added any thing to the Increaſe, Support, and Maintenance of any of their Majeſty's Dominions. How Grievous then it muſt be, that this Company would force their Fellow-Subjects to give them 30, 35, and 40 <hi>per Cent</hi> upon their whole Cargo, only for their Permiſſion to Buy Negroes in <hi>A<g ref="char:EOLhyphen"/>frica,</hi> for their own Uſe, though their Ships ſo Trading perhaps do not come with<g ref="char:EOLhyphen"/>in ſeveral Hundred Leagues of any of the Company's Factories; which Dear-Bought-Permiſſions have been but lately obtain'd, and that with Difficulty; and yet this Company muſt have ſo much, or elſe it hath hitherto been the Cuſtom of the ſaid Company to Seize the ſaid Ships as aforeſaid, to the Ruine of abundance of Families.</p>
+            <p n="8">VIII. And the more effectually to Oppreſs their MAJESTY's Subjects here, who do Make and Sell the Woollen Manufactures proper for that Trade, as Per<g ref="char:EOLhyphen"/>petuanoes, Sayes, <hi>&amp;c.</hi> this Company doth oblige thoſe who do give them 30 and 40 <hi>per Cent</hi> for their Liberty of Trade, to take their Cargoes from the ſaid Company, ſo that ſtill there is but One Buyer, by which means the Woollen Ma<g ref="char:EOLhyphen"/>nufactures are leſſened in their Value.</p>
+            <p n="9">IX. The Abuſe put upon Maſters, Owners of Ships, and Seamen, are innumerable, for they having ſo great a Part of the World ſhar'd out to themſelves by their Patent, a great many Ships, though never ſo unwillingly, muſt enter their Service, or Rot in the Harbours; and if they or their Seamen do carry any ſmall Adventure, at their Return they are certainly Ruin'd; firſt tying them up to intollerable Conditi<g ref="char:EOLhyphen"/>ons by their Charter-Party, and then ſtop all their Fraight; and have always a ſtand<g ref="char:EOLhyphen"/>ing Committee to manage their Law-Suits, and their whole Stock to Wage War a<g ref="char:EOLhyphen"/>gainſt the Poor Maſter, who if he will not be kept out of his Fraight four, five, or ſix Years, muſt come in an Humble Manner to Submit to the Mercy of their Court, for ſuch a Mulct as they ſhall be pleaſed to ſet upon him; which is gene<g ref="char:EOLhyphen"/>rally to loſe the Value of his Goods, and over and above, to pay 100 <hi>l.</hi> or more, according to their own Will and Pleaſure; or if he will come to a Reference, he muſt chooſe for his Arbitrators two of their own Committee, whereby they make them<g ref="char:EOLhyphen"/>ſelves Judges in their own Caſe.</p>
+            <p n="10">X. <hi>Laſtly,</hi> If their Majeſty's Subjects in the Sugar-Plantations, if thoſe here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that do make and are concern'd in the Woollen Manufacture, if the Merchants, Owners of Ships, Maſters, and Seamen are ſo Uſed by this Company when only Supported by a Patent, what Oppreſſions may they not expect when they are Sup<g ref="char:EOLhyphen"/>ported by a Law?</p>
+            <p>
+               <hi>For Redreſs of the aforegoing Miſchiefs, and Prevention thereof for the future, We Humbly Propoſe as an Expedient to this Honourable Houſe, That the Trade of</hi> Africa <hi>may be left Open and Free, or under ſuch a Regulation that any of their Ma<g ref="char:EOLhyphen"/>jeſty's Subjects may at any time be admitted to Trade in ſome ſort like the</hi> Turky <hi>Company, with their Stocks apart; ſo will the Woollen Manufactures be advanced in their Price, and their Vent encreaſed, Merchants, Planters, and Owners of Ships incouraged, and their Majeſty's Cuſtoms much Augmented.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
